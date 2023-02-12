@@ -6,7 +6,7 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://zorgundostu-db:5432/zorgundostu
+    url: jdbc:postgresql://zgd-db-dev:5432/zgd-dev
     username: postgres
     password: postgres
     hikari:
